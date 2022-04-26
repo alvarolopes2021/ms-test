@@ -15,8 +15,7 @@ ______
 
  * Clone o repositório 
 	 > https://github.com/alvarolopes2021/ms-test.git 
-
-	 > git@github.com:alvarolopes2021/ms-test.git
+	 git@github.com:alvarolopes2021/ms-test.git
 	 
  * Abra a solução em seu Visual Studio 2022 
 	 > O Visual Studio de versões anteriores não suporta o .NET na versão 6 (versão utilizada no projeto)
