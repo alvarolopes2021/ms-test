@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\TestProject1\\TestProject1.csproj": {}
+    "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\TestProject1\\TestProject1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\ConsoleApp1\\ConsoleApp1.csproj": {
+    "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\ConsoleApp1\\ConsoleApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\ConsoleApp1\\ConsoleApp1.csproj",
+        "projectUniqueName": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\ConsoleApp1\\ConsoleApp1.csproj",
         "projectName": "ConsoleApp1",
-        "projectPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\ConsoleApp1\\ConsoleApp1.csproj",
-        "packagesPath": "C:\\Users\\Projetinho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\ConsoleApp1\\obj\\",
+        "projectPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\ConsoleApp1\\ConsoleApp1.csproj",
+        "packagesPath": "C:\\Users\\Dev-Master-1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\ConsoleApp1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Projetinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev-Master-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\Constants.csproj": {
-                "projectPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\Constants.csproj"
+              "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\Constants.csproj": {
+                "projectPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\Constants.csproj"
               }
             }
           }
@@ -58,21 +58,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\Constants.csproj": {
+    "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\Constants.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\Constants.csproj",
+        "projectUniqueName": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\Constants.csproj",
         "projectName": "Constants",
-        "projectPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\Constants.csproj",
-        "packagesPath": "C:\\Users\\Projetinho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\obj\\",
+        "projectPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\Constants.csproj",
+        "packagesPath": "C:\\Users\\Dev-Master-1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Projetinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev-Master-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -112,21 +112,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\TestProject1\\TestProject1.csproj": {
+    "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\TestProject1\\TestProject1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\TestProject1\\TestProject1.csproj",
+        "projectUniqueName": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\TestProject1\\TestProject1.csproj",
         "projectName": "TestProject1",
-        "projectPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\TestProject1\\TestProject1.csproj",
-        "packagesPath": "C:\\Users\\Projetinho\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\TestProject1\\obj\\",
+        "projectPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\TestProject1\\TestProject1.csproj",
+        "packagesPath": "C:\\Users\\Dev-Master-1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\TestProject1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Projetinho\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Dev-Master-1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -140,11 +140,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\ConsoleApp1\\ConsoleApp1.csproj": {
-                "projectPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\ConsoleApp1\\ConsoleApp1.csproj"
+              "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\ConsoleApp1\\ConsoleApp1.csproj": {
+                "projectPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\ConsoleApp1\\ConsoleApp1.csproj"
               },
-              "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\Constants.csproj": {
-                "projectPath": "C:\\Users\\Projetinho\\Desktop\\INATEL\\P9\\C214\\ProjetoMSTest\\Constants\\Constants.csproj"
+              "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\Constants.csproj": {
+                "projectPath": "C:\\Users\\Dev-Master-1\\Downloads\\ms-test\\Constants\\Constants.csproj"
               }
             }
           }
@@ -161,19 +161,21 @@
           "dependencies": {
             "MSTest.TestAdapter": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[2.2.9, )"
             },
             "MSTest.TestFramework": {
               "target": "Package",
-              "version": "[2.2.7, )"
+              "version": "[2.2.9, )"
             },
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
-              "version": "[16.11.0, )"
+              "version": "[17.1.0, )"
             },
             "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
               "target": "Package",
-              "version": "[3.1.0, )"
+              "version": "[3.1.2, )"
             }
           },
           "imports": [
@@ -191,7 +193,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }

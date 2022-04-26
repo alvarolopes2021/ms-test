@@ -1,4 +1,8 @@
 /TestProject1/bin
 /TestProject1/TestResults
+/TestProject1/.vs
+/TestProject1/obj/Debug
 /Constants/bin
+/Constants/obj/Debug
 /ConsoleApp1/bin
+/ConsoleApp1/obj/Debug
