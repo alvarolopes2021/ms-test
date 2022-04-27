@@ -11,38 +11,41 @@ ______
  * [Git](https://git-scm.com/)
  * [Visual Studio 2022](https://visualstudio.microsoft.com/pt-br/vs/)
 
+---
+
 ### ▶ Executando o projeto
 
-####  Passo a Passo para criar um Projeto de teste C# por linha de comando
 
-##### Criando a solução:
+###  Passo a Passo para criar um Projeto de teste C# por linha de comando
 
-    dotnet new sln -n nome-do-projeto
+* Criando a solução:
 
-##### Criando o projeto da classe:
+		dotnet new sln -n nome-do-projeto
 
-    dotnet new classlib -n NomeDaClasse
+* Criando o projeto da classe:
 
-##### Adicionando a referência do projeto na solução:
+    	dotnet new classlib -n NomeDaClasse
 
-    dotnet sln nome-do-projeto.sln add NomeDaClasse/NomeDaClasse.csproj
+* Adicionando a referência do projeto na solução:
 
-##### Criando o projeto de teste da classe:
+    	dotnet sln nome-do-projeto.sln add NomeDaClasse/NomeDaClasse.csproj
 
-    dotnet new mstest -n NomeDaClasse.Tests
+* Criando o projeto de teste da classe:
 
-##### Adicionando o projeto de teste na solução: 
+  	  dotnet new mstest -n NomeDaClasse.Tests
 
-    dotnet sln nome-do-projeto.sln add NomeDaClasse.Tests/NomeDaClasse.Tests.csproj
+* Adicionando o projeto de teste na solução: 
 
-##### Referenciando o projeto NomeDaClasse a ele:
+  	  dotnet sln nome-do-projeto.sln add NomeDaClasse.Tests/NomeDaClasse.Tests.csproj
 
-	dotnet add NomeDaClasse.Tests/NomeDaClasse.Tests.csproj reference NomeDaClasse/NomeDaClasse.csproj
+* Referenciando o projeto NomeDaClasse a ele:
+
+		dotnet add NomeDaClasse.Tests/NomeDaClasse.Tests.csproj reference NomeDaClasse/NomeDaClasse.csproj
 
 
-##### Executando os teste
+* Executando os testes
 
-	dotnet test
+		dotnet test
 
  > Com os comandos acima eles criam a classe a ser testada e classe de teste que vai ser utilizada,
 Também com este passo a passo ele irá criar os arquivos .csproj que salvam as configurações de 
@@ -50,7 +53,7 @@ projeto e referências dos arquivos usados no programa no formato MSBuild, que p
 em programa executável usando MSBuild
 
 
-#### Criando um projeto pelo Visual Studio 2022
+### Abrindo o projeto pelo Visual Studio 2022
 
  * Clone o repositório 
  
@@ -64,4 +67,4 @@ em programa executável usando MSBuild
  * Com a solução aberta, caso o VS 2022 não instale as dependências, realize as instalções
  
 
- > Com tudo pronto, basta clicar com o botão direito no projeto de testes e acionar a execução dos teste por meio da função "Executar Testes" ou "Run Tests"
+ > Com tudo pronto, basta clicar com o botão direito no projeto de testes e acionar a execução dos testes por meio da função "Executar Testes" ou "Run Tests"
