@@ -1,6 +1,6 @@
 # MS-TEST
 
-## Projeto destinado a execução de testes utilizando C#, .NET e MSTest
+### Projeto destinado a execução de testes utilizando C#, .NET e MSTest
 
 ### 👨‍💻 Autores: Álvaro Alvim, Arilson, João Carlos, Luis Gustavo
 
@@ -66,7 +66,9 @@ em programa executável usando MSBuild
  * Abra a solução em seu Visual Studio 2022 
 	 > O Visual Studio de versões anteriores não suporta o .NET na versão 6 (versão utilizada no projeto)
 	 
- * Com a solução aberta, caso o VS 2022 não instale as dependências, realize as instalções
+	 >A solução encontra-se no diretório **TestProject1**
+	 
+ * Com a solução aberta, caso o VS 2022 não instale as dependências, realize as instalações
  
 
  > Com tudo pronto, basta clicar com o botão direito no projeto de testes e acionar a execução dos testes por meio da função "Executar Testes" ou "Run Tests"
