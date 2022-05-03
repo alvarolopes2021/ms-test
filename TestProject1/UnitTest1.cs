@@ -6,6 +6,14 @@ namespace TestProject1
     [TestClass]
     public class UnitTest1
     {
+
+        [TestMethod]
+        public void TestRemoveDoCopoVazio() // remove 100ml do copo vazio, continua vazio
+        {
+            Copo copo = new Copo(200);
+            Assert.AreEqual(copo.remover(100), Constants.Constants.VAZIO);
+        }
+
         [TestMethod]
         public void TestAdiciona180mlNoCopoDe200()
         {
@@ -20,13 +28,6 @@ namespace TestProject1
             Copo copo = new Copo(200);
             CocaCola coca = new CocaCola(2000, 5.5);
             Assert.AreEqual(copo.adicionar(300, coca), Constants.Constants.TRANSBORDOU);
-        }
-
-        [TestMethod]
-        public void TestRemoveDoCopoVazio() // remove 100ml do copo vazio, continua vazio
-        {
-            Copo copo = new Copo(200);
-            Assert.AreEqual(copo.remover(100), Constants.Constants.VAZIO);
         }
 
         [TestMethod]
@@ -45,6 +46,15 @@ namespace TestProject1
             CocaCola coca = new CocaCola(2000, 5.5);
             coca.quantidade = 0;
             Assert.AreEqual(copo.adicionar(50, coca), Constants.Constants.ORIGEM_VAZIA);
+        }
+
+        [TestMethod]
+        public void AdicionaCocaColaComQuantidade()
+        {
+            Copo copo = new Copo(200);
+            CocaCola coca = new CocaCola(2000, 5.5);
+            coca.quantidade = 1000;
+            Assert.AreNotEqual(copo.adicionar(50, coca), Constants.Constants.ORIGEM_VAZIA);
         }
     }
 }
