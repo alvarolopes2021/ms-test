@@ -4,6 +4,8 @@
 
 ### 👨‍💻 Autores: Álvaro Alvim, Arilson, João Carlos, Luis Gustavo
 
+![CI](https://github.com/alvarolopes2021/ms-test/actions/workflows/dotnet.yml/badge.svg)
+
 ______
 
 ### 💻 Techs
